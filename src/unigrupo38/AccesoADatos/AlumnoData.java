@@ -9,6 +9,6 @@ package unigrupo38.AccesoADatos;
  *
  * @author Usuario
  */
-public class AlumnoDate {
+public class AlumnoData {
     
 }
